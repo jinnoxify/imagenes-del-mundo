@@ -1,0 +1,9 @@
+.image__img {
+  height: 200px;
+  object-fit: contain;
+  width: 400px;
+  border-radius: 10px;
+}
+.image {
+  margin: 0 -30px 10px -30px;
+}

@@ -1,0 +1,54 @@
+.userInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.vendor {
+  display: flex;
+}
+.vendorInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+  border: 1px solid black;
+  margin: 20px;
+  border-radius: 10px;
+  transition: transform 450ms;
+  cursor: pointer;
+  background-color: #00b19d;
+}
+.vendor__button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 700px;
+}
+.vendor__image {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.vendorScore {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 15px;
+}
+.vendorName {
+  margin-left: 15px;
+}
+.userInfo__input {
+  border: 2px solid black;
+  background-color: #4f4fd4;
+  padding: 10px 10px 0px 10px;
+}
+
+.userInfo__button {
+  display: none;
+}
+
+.modalButton {
+  margin-top: 20px !important;
+}
