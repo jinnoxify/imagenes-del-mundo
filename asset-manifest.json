@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/imagenes-del-mundo/static/css/main.9f46a12e.chunk.css",
+    "main.js": "/imagenes-del-mundo/static/js/main.3ac5ed58.chunk.js",
+    "main.js.map": "/imagenes-del-mundo/static/js/main.3ac5ed58.chunk.js.map",
+    "runtime-main.js": "/imagenes-del-mundo/static/js/runtime-main.69c90d7f.js",
+    "runtime-main.js.map": "/imagenes-del-mundo/static/js/runtime-main.69c90d7f.js.map",
+    "static/js/2.6c269f05.chunk.js": "/imagenes-del-mundo/static/js/2.6c269f05.chunk.js",
+    "static/js/2.6c269f05.chunk.js.map": "/imagenes-del-mundo/static/js/2.6c269f05.chunk.js.map",
+    "index.html": "/imagenes-del-mundo/index.html",
+    "precache-manifest.cd1a13130d4f61ee3b5b3a87d97c0dc7.js": "/imagenes-del-mundo/precache-manifest.cd1a13130d4f61ee3b5b3a87d97c0dc7.js",
+    "service-worker.js": "/imagenes-del-mundo/service-worker.js",
+    "static/css/main.9f46a12e.chunk.css.map": "/imagenes-del-mundo/static/css/main.9f46a12e.chunk.css.map",
+    "static/js/2.6c269f05.chunk.js.LICENSE.txt": "/imagenes-del-mundo/static/js/2.6c269f05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69c90d7f.js",
+    "static/js/2.6c269f05.chunk.js",
+    "static/css/main.9f46a12e.chunk.css",
+    "static/js/main.3ac5ed58.chunk.js"
+  ]
+}
