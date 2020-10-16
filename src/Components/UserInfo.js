@@ -41,7 +41,7 @@ function UserInfo({ user }) {
   const [score2, setScore2] = useState(0);
   const [score3, setScore3] = useState(0);
   const [open1, setOpen1] = useState(false);
-  const [coya, setCoya] = useState([]);
+  const [invoiceLink, setInvoiceLink] = useState([]);
 
   const goNext = async () => {
     let invoice = await Axios.post(
@@ -63,10 +63,10 @@ function UserInfo({ user }) {
           "b3NjYXJwZXJlem5hdmFycm8xOTk3QGdtYWlsLmNvbTo3ODk0NTY3ODk0NTZsb2w=",
       }
     );
-    setCoya(invoice);
+    setInvoiceLink(invoice);
   };
 
-  console.log(coya);
+  console.log(invoiceLink);
 
   const body = (
     <div style={modalStyle} className={classes.paper}>

@@ -16,7 +16,11 @@ function App() {
         <div className="app">
           <h1 className="app__title">IMAGENES DEL MUNDO</h1>
           <div className="app__container">
-            <Route exact path="/" render={() => <UserInfo user={user} />} />
+            <Route
+              exact
+              path="/imagenes-del-mundo"
+              render={() => <UserInfo user={user} />}
+            />
             <Route exact path="/invoice" component={Invoice} />
           </div>
         </div>
