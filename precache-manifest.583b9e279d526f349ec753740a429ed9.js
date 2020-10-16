@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72c5c07ef3ef71752157d4354e3679dd",
+    "revision": "93560b333cd54dc23acf49abb81c899b",
     "url": "/imagenes-del-mundo/index.html"
   },
   {
-    "revision": "66de5d17724d840097a3",
+    "revision": "ef335047ddce42de56a7",
     "url": "/imagenes-del-mundo/static/css/main.9f46a12e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imagenes-del-mundo/static/js/2.6c269f05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66de5d17724d840097a3",
-    "url": "/imagenes-del-mundo/static/js/main.3ac5ed58.chunk.js"
+    "revision": "ef335047ddce42de56a7",
+    "url": "/imagenes-del-mundo/static/js/main.94cc5126.chunk.js"
   },
   {
     "revision": "53085c2128d857938115",

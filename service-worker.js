@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/imagenes-del-mundo/precache-manifest.cd1a13130d4f61ee3b5b3a87d97c0dc7.js"
+  "/imagenes-del-mundo/precache-manifest.583b9e279d526f349ec753740a429ed9.js"
 );
 
 self.addEventListener('message', (event) => {
